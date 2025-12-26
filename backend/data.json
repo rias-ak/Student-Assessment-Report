@@ -1,0 +1,11 @@
+{
+  "studentName": "Nerissa Smith",
+  "assessmentDate": "2024-12-20",
+  "overallScore": 6.5,
+  "skills": {
+    "pronunciation": 3.5,
+    "fluency": 6.5,
+    "vocabulary": 5.0,
+    "grammar": 8.4  
+  }
+}
